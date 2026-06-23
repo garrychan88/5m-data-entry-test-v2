@@ -3,14 +3,8 @@
 This is the technical entry assessment for the **(SCTP) Advanced Professional Certificate in Data Science and AI** programme.
 
 ---
-
 **TL;DR:** Fork this repo, answer the questions in `src/`, push your changes, then submit your fork URL on the NTU Survey Portal. 
-
 ---
-
-> 🪟 **Windows Users**
-> You will need WSL or Ubuntu installed to answer Q2 and Q3. See [**`SETUP-WINDOWS.md`**](./SETUP-WINDOWS.md) for the full guide. macOS and Linux users can skip this; you already have a Unix shell built in.
-
 
 ### About this Assessment
 
