@@ -4,11 +4,11 @@ Several questions in this assessment expect a **Unix-style terminal** (bash or z
 
 If you have never heard of WSL, that is completely fine. WSL is a Microsoft-supported feature that lets you run Ubuntu Linux inside Windows, in its own terminal window. Most people install it in about 15 to 30 minutes.
 
-> **Windows version:** WSL runs on both **Windows 10** and **Windows 11**, so either works for this course. We recommend **Windows 11** to get the latest updates and the smoothest WSL experience. If you prefer not to use Windows, you can switch to a free Linux OS such as Ubuntu.
+> **Windows version:** We recommend **Windows 11** to get the latest updates and the smoothest WSL experience. If you prefer not to use Windows, you can switch to a free Linux OS such as Ubuntu.
 
 **Prefer to install Linux directly instead of using WSL?** That works too, and is fully supported for this course. Ubuntu is the most beginner-friendly distribution and is the same Linux that WSL would install for you anyway. You can install Ubuntu alongside Windows (dual-boot), on a spare laptop, or try it from a USB stick first without committing. See the [Linux install path for Windows users](#linux-install-path-for-windows-users) section at the bottom of this file. Once Ubuntu is running, you can skip the WSL steps entirely; the rest of this section does not apply to you.
 
-You do not need WSL to read the questions, but you will need it (or another POSIX shell) for Q2 and Q3, which ask you to paste real terminal output. If you are on **macOS** or **Linux** (either as your main OS or installed alongside Windows), you already have a Unix shell built in and can skip this file.
+You do not need WSL to read the questions, but you might need it to answer some of the questions. If you are on **macOS** or **Linux** (either as your main OS or installed alongside Windows), you already have a Unix shell built in and can skip this file.
 
 **If you are new to WSL, start here:**
 
@@ -21,7 +21,7 @@ Stuck on installation? You can still attempt every question. For Q2 and Q3, writ
 
 ## References
 
-**Windows (WSL).** (Windows 11 recommended).
+**Windows (WSL).** (Windows 11 recommended)
 - [What is WSL? — Microsoft Docs](https://learn.microsoft.com/en-us/windows/wsl/about)
 - [Install WSL on Windows 11 — Microsoft Docs](https://learn.microsoft.com/en-us/windows/wsl/install)
 - [Basic commands for WSL — Microsoft Docs](https://learn.microsoft.com/en-us/windows/wsl/basic-commands)
