@@ -48,6 +48,8 @@ You will need a GitHub account to submit. If you do not have one, create one fir
 
 ### Step-by-step
 
+![GitHub Setup](assets/submit-github.png)
+
 **Step 1: Create a GitHub account**  
 If you don't already have one, sign up at https://github.com/
 
