@@ -32,5 +32,5 @@ Step 6 (short answer). You run `git status` and it says
 `Changes not staged for commit`. In one sentence, what does that tell you,
 and which command moves a file from there into the next commit?
 
-    Answer:
+    Answer: Changes not staged for commit means that you have modified files that Git is tracking, but those changes have not yet been added to the staging area; use git add <filename> (for example, git add q4.md) to stage the file for the next commit.
 """
