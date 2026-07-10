@@ -20,19 +20,20 @@ Task
 
 (a) What does the buggy version actually return for [1, 2, 3, 4, 5, 6, 8], and why?
 
-    Answer:
+    Answer: 3
 
 (b) Fix the bug. Write the corrected function below.
     (A one-character change is enough, but you must understand why.)
+n % 2 == 0, because even numbers leave a remainder of 0 when divided by 2.
 """
 
 def count_evens(numbers):
     # your corrected code here
     pass
-
+ 
 
 """
 (c) In one sentence, explain in plain English what `n % 2 == 0` checks.
 
-    Answer:
+    Answer: n % 2 == 0 checks whether n is evenly divisible by 2, which means n is an even number.
 """
